@@ -25,7 +25,7 @@ To update the main headline and subheading:
 
 ```html
 <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-8">
-    Discover Surprising Deals about Every Niche  <!-- Replace main headline -->
+    Discover Surprising Deals  <!-- Replace main headline -->
 </h1>
 <p class="text-xl md:text-2xl text-gray-300 mb-12">
     Your One-Stop Shop for Smart Savings  <!-- Replace subheading -->
