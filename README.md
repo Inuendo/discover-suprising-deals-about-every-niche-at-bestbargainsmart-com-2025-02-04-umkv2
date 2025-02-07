@@ -16,8 +16,7 @@ The main site title and navigation items are located in the header. To update:
 ```html
 <!-- Find this section at the top of the page -->
 <a href="/" class="text-1xl font-bold text-white">
-
-BestBargainsmart  <!-- Replace this text -->
+BestBargainsmart <!-- Replace this text -->
 </a>
 ```
 
