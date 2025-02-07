@@ -77,7 +77,7 @@ Update the shop now buttons:
 </a>
 ```
 
-Replace `https://bestbargainsmart.com` with your actual shop URL.
+Replace "https://bestbargainsmart.com"  with your actual shop URL.
 
 ## Linking Privacy and Terms Pages
 
