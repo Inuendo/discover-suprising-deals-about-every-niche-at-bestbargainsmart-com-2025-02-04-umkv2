@@ -35,7 +35,7 @@ To update the main headline and subheading:
 ### Tailwind CSS Classes Explained
 
 #### Common Classes Used:
-- `text-[size]`: Controls text size (e.g., `text-xl`, `text-2xl`)
+- `text-[size]`: Controls text size (e.g., `text-xl`, `text-xl`)
 - `mb-[number]`: Adds margin bottom (e.g., `mb-8`, `mb-12`)
 - `px-[number]`: Adds horizontal padding (e.g., `px-6`)
 - `py-[number]`: Adds vertical padding (e.g., `py-4`)
